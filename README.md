@@ -3,4 +3,5 @@ Project Description:
  The website consists of 3 pages :
  Home Page - Home page consist of Main Section in which what website is all about is specified and at the bottom Footer is there.
  About us Page - About us page gives short intro about our company .
- Contact us Page - Contact us page contains contact details to be filled for any query or suggetions.
+![image](https://user-images.githubusercontent.com/68475359/129437380-34536e97-8365-461a-9c83-16b7c404dba5.png)
+ 
