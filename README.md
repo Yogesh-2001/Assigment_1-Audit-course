@@ -23,7 +23,7 @@ Project Description:
   
   for icons - font awesome icons were used 
   
-                                # Home Page 
+                                ** Home Page 
  ![image](https://user-images.githubusercontent.com/68475359/129834172-c4df6215-d93d-45e7-81cb-4e00fc9c668d.png)
                                 # Footer
 ![image](https://user-images.githubusercontent.com/68475359/129834365-5128a693-9f22-439d-87b0-04b7243ac57f.png)
